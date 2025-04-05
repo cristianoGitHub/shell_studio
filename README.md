@@ -3,6 +3,8 @@
 **Versão da prova:** LPIC-1 101 - v5.0  
 **Editora:** Casa do Código  
 
+![Capa do livro](https://www.casadocodigo.com.br/cdn/shop/files/cd24b8bf-31d3-4dc2-a1e1-f79fbf65d438_large.jpg?v=1714473606)
+
 ---
 
 ## 🎯 Objetivo do Repositório
