@@ -1,23 +1,47 @@
-# shell_studio
+# 📘 Certificação Linux - Guia Prático para a Prova LPIC-1 101  
+**Autor:** Juliano Ramos  
+**Versão da prova:** LPIC-1 101 - v5.0  
+**Editora:** Casa do Código  
 
-# Prática do Livro *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* de Juliano Ramos
+---
 
-Este repositório contém minha prática da linguagem nos exercícios propostos no livro [*Certificação Linux: Guia Prático Para a Prova LPIC-1 101*](https://www.casadocodigo.com.br/products/livro-certificacao-linux?_pos=1&_sid=5bac97602&_ss=r) de Juliano Ramos.
+## 🎯 Objetivo
 
-![Capa do Livro](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FCertifica%25C3%25A7%25C3%25A3o-Linux-pr%25C3%25A1tico-prova-LPIC-1-ebook%2Fdp%2FB09W2ZRMHH&psig=AOvVaw2etKpi0OzrNb88BjFV2LGQ&ust=1743945636576000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiIz_X9wIwDFQAAAAAdAAAAABAE)
+Este guia prático tem como foco a preparação para o exame **LPIC-1 101** da certificação **Linux Professional Institute Certification (LPI)**. A obra é voltada tanto para iniciantes quanto para profissionais que desejam revisar e validar seus conhecimentos em Linux.
 
-## Estrutura do Repositório
+---
 
-Os exercícios estão organizados pela sequência exata dos capítulos do livro. Assim, cada arquivo corresponde aos exercícios do capítulo respectivo.
+## 📚 Conteúdo Abordado
 
-## Sobre o Livro
+O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
 
-[*Certificação Linux: Guia Prático Para a Prova LPIC-1 101*](https://www.casadocodigo.com.br/products/livro-certificacao-linux?_pos=1&_sid=5bac97602&_ss=r)  é um livro introdutório que aborda os fundamentos da programação em Python, incluindo conceitos básicos, estruturas de dados, desenvolvimento de projetos e boas práticas de programação. O autor é certificado LPCI-2 - Linux Professional Institute Certificate, SUSE Certified Linux Administrator (CLA) e Red Hat.
+- ✅ **Comandos GNU e UNIX**  
+  Fundamentos e uso prático de comandos essenciais do Linux.
 
-## Recursos Adicionais
+- ✅ **Manipulação de arquivos de texto**  
+  Comandos e técnicas para visualizar, editar e processar arquivos.
 
-Para mais informações e recursos adicionais relacionados ao livro, visite o [repositório oficial do autor no GitHub](https://github.com/ehmatthes/pcc).
+- ✅ **Gerenciamento de arquivos e diretórios**  
+  Estrutura de diretórios, permissões, cópia, movimentação e exclusão de arquivos.
 
-## Observações
+- ✅ **Redirecionamento de entrada e saída**  
+  Uso de pipes (`|`), redirecionadores (`>`, `>>`, `<`), e combinação de comandos.
 
-Este repositório é mantido com o objetivo de praticar e consolidar os conhecimentos adquiridos através do citado livro. Feedbacks e sugestões são bem-vindos!
+---
+
+## 🎓 Sobre o autor
+
+**Juliano Ramos** é instrutor com mais de uma década de experiência em treinamentos Linux voltados à certificação LPIC. Ele também é criador de cursos online e tem um canal no YouTube com conteúdo gratuito de alta qualidade.
+
+---
+
+## ▶️ Aula gratuita do curso
+
+Assista à **Aula 1 do curso LPIC-1 101 (versão 5.0)** no YouTube:  
+🔗 [Curso LPIC-1 101 - Aula 1](https://www.youtube.com/watch?v=LO-jQMcGsLU)
+
+---
+
+## 🏗️ Sugestão de uso
+
+Você pode criar seu repositório de estudos organizando os tópicos do livro em diretórios e anotações:
