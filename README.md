@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objetivo do Repositório
+## 🎯 Objetivo desse Repositório
 
 Este repositório é destinado a prática na preparação para o exame **LPIC-1 101** da certificação **Linux Professional Institute Certification (LPI)**. Todo o contexto prático é voltado para a obra acima referenciada, a qual é destinada tanto para iniciantes, quanto para profissionais que desejam revisar e validar seus conhecimentos em Linux.
 
