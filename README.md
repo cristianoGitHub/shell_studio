@@ -5,9 +5,9 @@
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo do Repositório
 
-Este guia prático tem como foco a preparação para o exame **LPIC-1 101** da certificação **Linux Professional Institute Certification (LPI)**. A obra é voltada tanto para iniciantes quanto para profissionais que desejam revisar e validar seus conhecimentos em Linux.
+Este repositório é destinado a prática na preparação para o exame **LPIC-1 101** da certificação **Linux Professional Institute Certification (LPI)**. Todo o contexto prático é voltado para a obra acima referenciada, a qual é destinada tanto para iniciantes, quanto para profissionais que desejam revisar e validar seus conhecimentos em Linux.
 
 ---
 
@@ -31,7 +31,7 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
 
 ## 🎓 Sobre o autor
 
-**Juliano Ramos** é instrutor com mais de uma década de experiência em treinamentos Linux voltados à certificação LPIC. Ele também é criador de cursos online e tem um canal no YouTube com conteúdo gratuito de alta qualidade.
+O professor **Juliano Ramos** é instrutor com mais de uma década de experiência em treinamentos Linux voltados à certificação LPIC. Ele também é criador de cursos online e tem um canal no YouTube com conteúdo gratuito de alta qualidade.
 
 ---
 
@@ -39,9 +39,3 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
 
 Assista à **Aula 1 do curso LPIC-1 101 (versão 5.0)** no YouTube:  
 🔗 [Curso LPIC-1 101 - Aula 1](https://www.youtube.com/watch?v=LO-jQMcGsLU)
-
----
-
-## 🏗️ Sugestão de uso
-
-Você pode criar seu repositório de estudos organizando os tópicos do livro em diretórios e anotações:
