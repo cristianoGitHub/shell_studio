@@ -33,7 +33,7 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
 
 ## 🎓 Sobre o autor
 
-O professor **Juliano Ramos** é instrutor com mais de uma década de experiência em treinamentos Linux voltados à certificação LPIC. Ele também é criador de cursos online e tem um canal no YouTube com conteúdo gratuito de alta qualidade.
+O professor **Juliano Ramos** é instrutor com mais de uma década de experiência em treinamentos Linux, voltados à certificação LPIC. Ele também é criador de cursos online, e tem um canal no YouTube com conteúdo gratuito de alta qualidade.
 
 ---
 
