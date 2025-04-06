@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# - - - - - - - - - - - - - - - - - N O T A S  DE  E S T U D O - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos) - - - - - - - - - - -
+#
 # 1) USUÁRIOS - Na linha de comando o símbolo "$" representa o usuário padrão, e "#" o usuário administrador. 
 # Para alterarmos para o usuário administrador, basta digitar: >>> su root
 echo "Comando: su root"
