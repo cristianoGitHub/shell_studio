@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# - - - - - - - - - - - - - - - - - N O T A S  DE  E S T U D O - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - N O T A S   D E   E S T U D O - - - - - - - - - - - - - - - - - - - - - - - - -
 # - - - - - - - - Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos) - - - - - - - - - - -
 #
 # 1) USUÁRIOS - Na linha de comando o símbolo "$" representa o usuário padrão, e "#" o usuário administrador. 
@@ -15,4 +15,11 @@ echo "Comando: sudo passwd root"
 # Se não estiver no bash, é só chamá-lo: >>> bash
 echo "Comando: bash"
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 4) COMANDOS EM MODO SEQUENCIAL - Podem ser executados com ou sem condição:
+# 4.1) Sem condição:
+echo "clear; date; ls"
+#4.1) Com condição:
+echo "ls /tmp/qualquercoisa.txt && echo $SHELL"
+echo "ls /tmp/qualquercoisa.txt || echo $SHELL"
+
 #
