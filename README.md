@@ -15,7 +15,7 @@ Este repositório é destinado a prática na preparação para o exame **LPIC-1 
 
 ## 📚 Conteúdo Abordado
 
-O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
+O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1, como por exemplo:
 
 - ✅ **Comandos GNU e UNIX**  
   Fundamentos e uso prático de comandos essenciais do Linux.
@@ -30,7 +30,7 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1:
   Uso de pipes (`|`), redirecionadores (`>`, `>>`, `<`), e combinação de comandos.
 
 ---
-### ✅ Progresso de Leitura — *Certificação Linux: Guia Prático para a Prova LPIC-1 101* (Juliano Ramos)
+## 📖 Progresso de Leitura — *Certificação Linux: Guia Prático para a Prova LPIC-1 101* (Juliano Ramos)
 
 #### 📘 Capítulos
 
