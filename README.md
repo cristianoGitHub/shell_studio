@@ -112,7 +112,7 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1, como por e
 - [ ] 14.6 Comandos chown, chgrp
 - [ ] 14.7 Criando e alterando links hard e soft - in 
 - [ ] 14.8 Localização de arquivos no linux
-- [ ] 
+
 ---
 
 ## 🎓 Sobre o autor
