@@ -60,23 +60,59 @@ O livro cobre os principais tópicos cobrados no exame 101 da LPIC-1, como por e
   - [ ] 5.3 Saída de um comando como entrada para outro comando
   - [ ] 5.4 Imprimindo o resultado de um comando
 
-- [ ] **6. (Título do capítulo 6)**
-  - [ ] 6.1 ...
-  - [ ] 6.2 ...
+- [ ] **6. Gerenciamento de processos**
+  - [ ] 6.1 Comando ps
+  - [ ] 6.2 Comando pstree
+  - [ ] 6.3 Procurando pelo PID dos processos
+  - [ ] 6.4 Comando top
+  - [ ] 6.5 Matando processsos travados
+  - [ ] 6.6 Comando killall
+  - [ ] 6.7 Comando pkill
+  - [ ] 6.8 Controle de tarefas
 
-- [ ] **7. (Título do capítulo 7)**
-  - [ ] 7.1 ...
-  - [ ] 7.2 ...
+- [ ] **7. Pesquisar arquivos de texto com expressões regulares**
+  - [ ] 7.1 Comando grep
+  - [ ] 7.2 Comando egrep
+  - [ ] 7.3 Tabela de exemplos
 
-- [ ] **8. ...**
-- [ ] **9. ...**
-- [ ] **10. ...**
-- [ ] **11. ...**
-- [ ] **12. ...**
-- [ ] **13. ...**
-- [ ] **14. ...**
-- [ ] **15. ...**
+- [ ] **8. Editor de texto VIM**
+   - [ ] 8.1 Comando grep
+   - [ ] 8.2 Começando com o VIM
+   - [ ] 8.3 Percorrendo o texto
 
+- [ ] **9. Arquitetura do sistema**
+  - [ ] 9.1 Introdução básica ao hardware 
+  - [ ] 9.2 As partições virtuais
+  - [ ] 9.3 Trabalhando com módulos 
+  - [ ] 9.4 Quais módulos estão disponíveis? 
+
+- [ ] **10. O boot do sistema**
+  - [ ] 10.1 Alterando os runlevels, Shutdown e Reboot  
+
+- [ ] **11. Particionamento de discos**
+  - [ ] 11.1 Sistemas de particionamento
+  - [ ] 11.2 Particionamento dos discos
+  - [ ] 11.3 Comandos essenciais
+
+- [ ] **12. Configuração de boot loader**
+  - [ ] 12.1 Bibliotecas comparttilhadas
+
+- [ ] **13. Gerenciamento de pacotes**
+  - [ ] 13.1 Comandos do apt
+  - [ ] 13.2 O aplicativo alien
+  - [ ] 13.3 Gerenciador de pacote RPM 
+  - [ ] 13.4 Gerenciador de pacotes yum 
+
+- [ ] **14. Dispositivos, sistemas de arquivos linux e FHS**
+- [ ] 14.1 Comandos de análise de sistema de arquivo 
+- [ ] 14.2 Controle de montagem e desmontagem de partições
+- [ ] 14.3 sync e async
+- [ ] 14.4 Gerenciando permissões e propriedades do arquivo
+- [ ] 14.5 Permissões especiais
+- [ ] 14.6 Comandos chown, chgrp
+- [ ] 14.7 Criando e alterando links hard e soft - in 
+- [ ] 14.8 Localização de arquivos no linux
+- [ ] 
 ---
 
 ## 🎓 Sobre o autor
